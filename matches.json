@@ -8,5 +8,15 @@
 		"score_g": 2,
 		"liga": "РПЛ",
 		"spectators": "11203"
+	},
+		{
+		"id": 2,
+		"date": "07.08.2024",
+		"team_h": "Факел",
+		"team_g": "Акрон",
+		"score_h": 0,
+		"score_g": 2,
+		"liga": "РПЛ",
+		"spectators": "9605"
 	}
 ]
