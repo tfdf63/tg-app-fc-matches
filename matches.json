@@ -116,7 +116,7 @@
 		"score_h": "-",
 		"score_g": "-",
 		"liga": "РПЛ",
-		"spectators": "х",
+		"spectators": "",
 		"ticket": "https://clck.ru/3D4sKH"
 	},
 	{
@@ -128,7 +128,7 @@
 		"score_h": "-",
 		"score_g": "-",
 		"liga": "Кубок",
-		"spectators": " ",
+		"spectators": "",
 		"ticket": ""
 	},
 	{
@@ -140,7 +140,7 @@
 		"score_h": "-",
 		"score_g": "-",
 		"liga": "РПЛ",
-		"spectators": " ",
+		"spectators": "",
 		"ticket": ""
 	}
 ]
