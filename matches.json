@@ -99,14 +99,36 @@
 		"spectators": 3863
 	},
 	{
-		"id": 8,
-		"date": "27.08.2024 21:00",
-		"tour": 2,
+		"id": 10,
+		"date": "15.09.2024 17:30",
+		"tour": 8,
 		"team_h": "Акрон",
-		"team_g": "Зенит",
-		"score_h": "1(5)",
-		"score_g": "1(4)",
+		"team_g": "Химки",
+		"score_h": "-",
+		"score_g": "-",
 		"liga": "РПЛ",
-		"spectators": 4834
+		"spectators": " "
+	},
+	{
+		"id": 11,
+		"date": "18.09.2024 17:15",
+		"tour": 3,
+		"team_h": "Акрон",
+		"team_g": "Факел",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "Кубок",
+		"spectators": " "
+	},
+	{
+		"id": 12,
+		"date": "21.09.2024 15:00",
+		"tour": 9,
+		"team_h": "Акрон",
+		"team_g": "Краснодар",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": " "
 	}
 ]
