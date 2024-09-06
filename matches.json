@@ -8,7 +8,8 @@
 		"score_h": 3,
 		"score_g": 2,
 		"liga": "РПЛ",
-		"spectators": 7520
+		"spectators": 7520,
+		"ticket": " "
 	},
 	{
 		"id": 2,
@@ -19,7 +20,8 @@
 		"score_h": 0,
 		"score_g": 2,
 		"liga": "РПЛ",
-		"spectators": 9619
+		"spectators": 9619,
+		"ticket": " "
 	},
 	{
 		"id": 3,
@@ -30,7 +32,8 @@
 		"score_h": 0,
 		"score_g": 2,
 		"liga": "РПЛ",
-		"spectators": 6581
+		"spectators": 6581,
+		"ticket": " "
 	},
 	{
 		"id": 4,
@@ -41,7 +44,8 @@
 		"score_h": 2,
 		"score_g": 2,
 		"liga": "РПЛ",
-		"spectators": 4584
+		"spectators": 4584,
+		"ticket": " "
 	},
 	{
 		"id": 5,
@@ -52,7 +56,8 @@
 		"score_h": 1,
 		"score_g": 2,
 		"liga": "Кубок",
-		"spectators": "Х"
+		"spectators": "Х",
+		"ticket": " "
 	},
 	{
 		"id": 6,
@@ -63,7 +68,8 @@
 		"score_h": 1,
 		"score_g": 2,
 		"liga": "РПЛ",
-		"spectators": 3567
+		"spectators": 3567,
+		"ticket": " "
 	},
 	{
 		"id": 7,
@@ -74,7 +80,8 @@
 		"score_h": 4,
 		"score_g": 0,
 		"liga": "РПЛ",
-		"spectators": 8054
+		"spectators": 8054,
+		"ticket": " "
 	},
 	{
 		"id": 8,
@@ -85,7 +92,8 @@
 		"score_h": "1(5)",
 		"score_g": "1(4)",
 		"liga": "Кубок",
-		"spectators": 4834
+		"spectators": 4834,
+		"ticket": " "
 	},
 	{
 		"id": 9,
@@ -96,7 +104,8 @@
 		"score_h": "0",
 		"score_g": "0",
 		"liga": "РПЛ",
-		"spectators": 3863
+		"spectators": 3863,
+		"ticket": " "
 	},
 	{
 		"id": 10,
@@ -119,7 +128,8 @@
 		"score_h": "-",
 		"score_g": "-",
 		"liga": "Кубок",
-		"spectators": " "
+		"spectators": " ",
+		"ticket": " "
 	},
 	{
 		"id": 12,
@@ -130,6 +140,7 @@
 		"score_h": "-",
 		"score_g": "-",
 		"liga": "РПЛ",
-		"spectators": " "
+		"spectators": " ",
+		"ticket": " "
 	}
 ]
