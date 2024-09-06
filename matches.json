@@ -1,22 +1,112 @@
 [
 	{
 		"id": 1,
-		"date": "03.08.2024 17:00",
+		"date": "20.07.2024 17:00",
+		"tour": 1,
 		"team_h": "Локомотив",
 		"team_g": "Акрон",
 		"score_h": 3,
 		"score_g": 2,
 		"liga": "РПЛ",
-		"spectators": "11203"
+		"spectators": 7520
 	},
-		{
+	{
 		"id": 2,
-		"date": "07.08.2024 20:00",
+		"date": "27.07.2024 21:00",
+		"tour": 2,
 		"team_h": "Факел",
 		"team_g": "Акрон",
 		"score_h": 0,
 		"score_g": 2,
 		"liga": "РПЛ",
-		"spectators": "9605"
+		"spectators": 9619
+	},
+	{
+		"id": 3,
+		"date": "03.08.2024 16:00",
+		"tour": 3,
+		"team_h": "Акрон",
+		"team_g": "Динамо",
+		"score_h": 0,
+		"score_g": 2,
+		"liga": "РПЛ",
+		"spectators": 6581
+	},
+	{
+		"id": 4,
+		"date": "10.08.2024 18:30",
+		"tour": 4,
+		"team_h": "Оренбург",
+		"team_g": "Акрон",
+		"score_h": 2,
+		"score_g": 2,
+		"liga": "РПЛ",
+		"spectators": 4584
+	},
+	{
+		"id": 5,
+		"date": "15.08.2024 17:00",
+		"tour": 1,
+		"team_h": "Факел",
+		"team_g": "Акрон",
+		"score_h": 1,
+		"score_g": 2,
+		"liga": "Кубок",
+		"spectators": "Х"
+	},
+	{
+		"id": 6,
+		"date": "19.08.2024 18:30",
+		"tour": 5,
+		"team_h": "Акрон",
+		"team_g": "Рубин",
+		"score_h": 1,
+		"score_g": 2,
+		"liga": "РПЛ",
+		"spectators": 3567
+	},
+	{
+		"id": 7,
+		"date": "24.08.2024 16:00",
+		"tour": 6,
+		"team_h": "ЦСКА",
+		"team_g": "Акрон",
+		"score_h": 4,
+		"score_g": 0,
+		"liga": "РПЛ",
+		"spectators": 8054
+	},
+	{
+		"id": 8,
+		"date": "27.08.2024 18:15",
+		"tour": 2,
+		"team_h": "Акрон",
+		"team_g": "Зенит",
+		"score_h": "1(5)",
+		"score_g": "1(4)",
+		"liga": "РПЛ",
+		"spectators": 4834
+	},
+	{
+		"id": 9,
+		"date": "31.08.2024 18:15",
+		"tour": 7,
+		"team_h": "Ахмат",
+		"team_g": "Акрон",
+		"score_h": "0",
+		"score_g": "0",
+		"liga": "РПЛ",
+		"spectators": 3863
+	},
+	{
+		"id": 8,
+		"date": "27.08.2024 18:15",
+		"tour": 2,
+		"team_h": "Акрон",
+		"team_g": "Зенит",
+		"score_h": "1(5)",
+		"score_g": "1(4)",
+		"liga": "РПЛ",
+		"spectators": 4834
 	}
 ]
