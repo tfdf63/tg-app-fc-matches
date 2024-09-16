@@ -113,11 +113,11 @@
 		"tour": 8,
 		"team_h": "Акрон",
 		"team_g": "Химки",
-		"score_h": "-",
-		"score_g": "-",
+		"score_h": "3",
+		"score_g": "0",
 		"liga": "РПЛ",
 		"spectators": "",
-		"ticket": "https://fcakron.tncloud.ru/view-available-zones/14?utm_term=fcaf"
+		"ticket": ""
 	},
 	{
 		"id": 11,
