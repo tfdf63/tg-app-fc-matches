@@ -128,8 +128,8 @@
 		"score_h": "-",
 		"score_g": "-",
 		"liga": "Кубок",
-		"spectators": "",
-		"ticket": "https://fcakron.tncloud.ru/view-available-zones/16?utm_term=fcaf"
+		"spectators": "1338",
+		"ticket": ""
 	},
 	{
 		"id": 12,
@@ -142,5 +142,41 @@
 		"liga": "РПЛ",
 		"spectators": "",
 		"ticket": "https://fcakron.tncloud.ru/view-available-zones/15?utm_term=fcaf"
+	},
+	{
+		"id": 13,
+		"date": "28.09.2024 21:00",
+		"tour": 10,
+		"team_h": "Ростов",
+		"team_g": "Акрон",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": "",
+		"ticket": ""
+	},
+	{
+		"id": 14,
+		"date": "02.10.2024 22:15",
+		"tour": 5,
+		"team_h": "Зенит",
+		"team_g": "Акрон",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "Кубок",
+		"spectators": "",
+		"ticket": ""
+	},
+	{
+		"id": 15,
+		"date": "05.10.2024 15:00",
+		"tour": 11,
+		"team_h": "Акрон",
+		"team_g": "Пари НН",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": "",
+		"ticket": ""
 	}
 ]
