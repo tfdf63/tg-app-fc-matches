@@ -161,10 +161,10 @@
 		"tour": 10,
 		"team_h": "Ростов",
 		"team_g": "Акрон",
-		"score_h": "-",
-		"score_g": "-",
+		"score_h": "0",
+		"score_g": "2",
 		"liga": "РПЛ",
-		"spectators": "",
+		"spectators": "11510",
 		"ticket": ""
 	},
 	{
@@ -190,5 +190,17 @@
 		"liga": "РПЛ",
 		"spectators": "",
 		"ticket": "https://fcakron.tncloud.ru/view-available-zones/17?utm_term=fcaf"
+	},
+	{
+		"id": 17,
+		"date": "18.10.2024 15:00",
+		"tour": 12,
+		"team_h": "Акрон",
+		"team_g": "Зенит",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": "",
+		"ticket": "https://fcakron.tncloud.ru/view-available-zones/18?utm_term=fcaf"
 	}
 ]
