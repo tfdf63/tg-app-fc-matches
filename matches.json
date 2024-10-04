@@ -173,10 +173,10 @@
 		"tour": 5,
 		"team_h": "Зенит",
 		"team_g": "Акрон",
-		"score_h": "-",
-		"score_g": "-",
+		"score_h": "5",
+		"score_g": "1",
 		"liga": "Кубок",
-		"spectators": "",
+		"spectators": "21777",
 		"ticket": ""
 	},
 	{
@@ -202,5 +202,17 @@
 		"liga": "РПЛ",
 		"spectators": "",
 		"ticket": "https://fcakron.tncloud.ru/view-available-zones/18?utm_term=fcaf"
+	},
+	{
+		"id": 18,
+		"date": "23.10.2024 20:00",
+		"tour": 6,
+		"team_h": "Акрон",
+		"team_g": "Рубин",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "Кубок",
+		"spectators": "",
+		"ticket": ""
 	}
 ]
