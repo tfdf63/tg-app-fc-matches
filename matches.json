@@ -213,6 +213,78 @@
 		"score_g": "-",
 		"liga": "Кубок",
 		"spectators": "",
+		"ticket": "https://fcakron.tncloud.ru/view-available-zones/19?utm_term=fcaf"
+	},
+	{
+		"id": 19,
+		"date": "26.10.2024 15:00",
+		"tour": 13,
+		"team_h": "Динамо Мх",
+		"team_g": "Акрон",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": "",
+		"ticket": ""
+	},
+	{
+		"id": 20,
+		"date": "03.11.2024 14:00",
+		"tour": 14,
+		"team_h": "Акрон",
+		"team_g": "Крылья Советов",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": "",
+		"ticket": "https://fcakron.tncloud.ru/view-available-zones/21?utm_term=fcaf"
+	},
+	{
+		"id": 21,
+		"date": "10.11.2024 16:15",
+		"tour": 15,
+		"team_h": "Спартак",
+		"team_g": "Акрон",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": "",
+		"ticket": ""
+	},
+	{
+		"id": 22,
+		"date": "22.11.2024 20:00",
+		"tour": 16,
+		"team_h": "Рубин",
+		"team_g": "Акрон",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": "",
+		"ticket": ""
+	},
+	{
+		"id": 23,
+		"date": "30.11.2024 15:00",
+		"tour": 17,
+		"team_h": "Акрон",
+		"team_g": "Оренбург",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": "",
+		"ticket": ""
+	},
+	{
+		"id": 24,
+		"date": "07.12.2024 17:30",
+		"tour": 18,
+		"team_h": "Зенит",
+		"team_g": "Акрон",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "РПЛ",
+		"spectators": "",
 		"ticket": ""
 	}
 ]
