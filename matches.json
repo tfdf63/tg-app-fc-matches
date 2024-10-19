@@ -197,11 +197,11 @@
 		"tour": 12,
 		"team_h": "Акрон",
 		"team_g": "Зенит",
-		"score_h": "-",
-		"score_g": "-",
+		"score_h": "0",
+		"score_g": "5",
 		"liga": "РПЛ",
 		"spectators": "",
-		"ticket": "https://fcakron.tncloud.ru/view-available-zones/18?utm_term=fcaf"
+		"ticket": ""
 	},
 	{
 		"id": 18,
