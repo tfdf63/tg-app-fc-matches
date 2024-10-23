@@ -70,16 +70,6 @@
 		"points": 15
 	},
 	{
-		"id": 10,
-		"team": "Акрон",
-		"game": 12,
-		"win": 3,
-		"draw": 3,
-		"lose": 6,
-		"difference": "16-25",
-		"points": 12
-	},
-	{
 		"id": 8,
 		"team": "Ростов",
 		"game": 12,
@@ -100,14 +90,14 @@
 		"points": 12
 	},
 	{
-		"id": 12,
-		"team": "Динамо Мх",
+		"id": 10,
+		"team": "Акрон",
 		"game": 12,
-		"win": 2,
-		"draw": 5,
-		"lose": 5,
-		"difference": "5-10",
-		"points": 11
+		"win": 3,
+		"draw": 3,
+		"lose": 6,
+		"difference": "16-25",
+		"points": 12
 	},
 	{
 		"id": 11,
@@ -118,6 +108,16 @@
 		"lose": 6,
 		"difference": "12-22",
 		"points": 12
+	},
+	{
+		"id": 12,
+		"team": "Динамо Мх",
+		"game": 12,
+		"win": 2,
+		"draw": 5,
+		"lose": 5,
+		"difference": "5-10",
+		"points": 11
 	},
 	{
 		"id": 13,
