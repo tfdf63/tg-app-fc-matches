@@ -212,8 +212,8 @@
 		"score_h": "0",
 		"score_g": "1",
 		"liga": "Кубок",
-		"spectators": "",
-		"ticket": "1050"
+		"spectators": "1050",
+		"ticket": ""
 	},
 	{
 		"id": 19,
