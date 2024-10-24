@@ -2,45 +2,45 @@
 	{
 		"id": 1,
 		"team": "Зенит",
-		"game": 5,
-		"win": 4,
+		"game": 6,
+		"win": 5,
 		"winw": 0,
 		"draw": 0,
 		"drawd": 1,
-		"difference": "12-2",
-		"points": 13
+		"difference": "13-2",
+		"points": 16
 	},
 	{
 		"id": 2,
-		"team": "Акрон",
-		"game": 5,
-		"win": 2,
-		"winw": 1,
-		"draw": 2,
-		"drawd": 0,
-		"difference": "6-11",
-		"points": 8
-	},
-	{
-		"id": 3,
 		"team": "Рубин",
-		"game": 5,
-		"win": 2,
+		"game": 6,
+		"win": 3,
 		"winw": 0,
 		"draw": 3,
 		"drawd": 0,
-		"difference": "6-4",
-		"points": 6
+		"difference": "7-4",
+		"points": 9
+	},
+	{
+		"id": 3,
+		"team": "Акрон",
+		"game": 6,
+		"win": 2,
+		"winw": 1,
+		"draw": 3,
+		"drawd": 0,
+		"difference": "6-12",
+		"points": 8
 	},
 	{
 		"id": 4,
 		"team": "Факел",
-		"game": 5,
+		"game": 6,
 		"win": 1,
 		"winw": 0,
-		"draw": 4,
+		"draw": 5,
 		"drawd": 0,
-		"difference": "2-9",
+		"difference": "2-10",
 		"points": 3
 	}
 ]

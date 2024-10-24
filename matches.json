@@ -209,11 +209,11 @@
 		"tour": 6,
 		"team_h": "Акрон",
 		"team_g": "Рубин",
-		"score_h": "-",
-		"score_g": "-",
+		"score_h": "0",
+		"score_g": "1",
 		"liga": "Кубок",
 		"spectators": "",
-		"ticket": "https://fcakron.tncloud.ru/view-available-zones/19?utm_term=fcaf"
+		"ticket": "1050"
 	},
 	{
 		"id": 19,
