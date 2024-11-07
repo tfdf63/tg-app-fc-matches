@@ -265,6 +265,18 @@
 	},
 	{
 		"id": 23,
+		"date": "26.11.2024 19:15",
+		"tour": "1/4 финала",
+		"team_h": "Шинник",
+		"team_g": "Акрон",
+		"score_h": "-",
+		"score_g": "-",
+		"liga": "Кубок",
+		"spectators": "",
+		"ticket": ""
+	},
+	{
+		"id": 24,
 		"date": "30.11.2024 15:00",
 		"tour": 17,
 		"team_h": "Акрон",
@@ -276,7 +288,7 @@
 		"ticket": "https://fcakron.tncloud.ru/view-available-zones/22?utm_term=fcaf"
 	},
 	{
-		"id": 24,
+		"id": 25,
 		"date": "07.12.2024 17:30",
 		"tour": 18,
 		"team_h": "Зенит",
