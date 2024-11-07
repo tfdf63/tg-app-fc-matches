@@ -233,11 +233,11 @@
 		"tour": 14,
 		"team_h": "Акрон",
 		"team_g": "Крылья Сов",
-		"score_h": "-",
-		"score_g": "-",
+		"score_h": "2",
+		"score_g": "0",
 		"liga": "РПЛ",
-		"spectators": "",
-		"ticket": "https://fcakron.tncloud.ru/view-available-zones/21?utm_term=fcaf"
+		"spectators": "8438",
+		"ticket": ""
 	},
 	{
 		"id": 21,
@@ -273,7 +273,7 @@
 		"score_g": "-",
 		"liga": "РПЛ",
 		"spectators": "",
-		"ticket": ""
+		"ticket": "https://fcakron.tncloud.ru/view-available-zones/22?utm_term=fcaf"
 	},
 	{
 		"id": 24,
