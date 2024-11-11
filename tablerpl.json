@@ -2,161 +2,161 @@
 	{
 		"id": 1,
 		"team": "Краснодар",
-		"game": 14,
+		"game": 15,
 		"win": 11,
-		"draw": 3,
+		"draw": 4,
 		"lose": 0,
-		"difference": "31-6",
-		"points": 36
+		"difference": "32-7",
+		"points": 37
 	},
 	{
 		"id": 2,
 		"team": "Зенит",
-		"game": 14,
-		"win": 10,
+		"game": 15,
+		"win": 11,
 		"draw": 3,
 		"lose": 1,
-		"difference": "31-6",
-		"points": 33
+		"difference": "33-7",
+		"points": 36
 	},
 	{
 		"id": 3,
 		"team": "Локомотив",
-		"game": 14,
-		"win": 10,
+		"game": 15,
+		"win": 11,
 		"draw": 1,
 		"lose": 3,
-		"difference": "28-17",
-		"points": 31
+		"difference": "30-18",
+		"points": 34
 	},
 	{
 		"id": 4,
 		"team": "Динамо М",
-		"game": 14,
-		"win": 8,
+		"game": 15,
+		"win": 9,
 		"draw": 3,
 		"lose": 3,
-		"difference": "28-16",
-		"points": 27
+		"difference": "31-17",
+		"points": 30
 	},
 	{
 		"id": 5,
 		"team": "Спартак",
-		"game": 14,
-		"win": 7,
+		"game": 15,
+		"win": 8,
 		"draw": 4,
 		"lose": 3,
-		"difference": "21-12",
-		"points": 25
+		"difference": "25-12",
+		"points": 28
 	},
 	{
 		"id": 6,
 		"team": "ЦСКА",
-		"game": 14,
-		"win": 7,
+		"game": 15,
+		"win": 8,
 		"draw": 3,
 		"lose": 4,
-		"difference": "22-9",
-		"points": 24
+		"difference": "24-10",
+		"points": 27
 	},
 	{
 		"id": 7,
 		"team": "Рубин",
-		"game": 14,
+		"game": 15,
 		"win": 5,
-		"draw": 3,
+		"draw": 4,
 		"lose": 6,
-		"difference": "16-21",
-		"points": 18
+		"difference": "17-22",
+		"points": 19
 	},
 	{
 		"id": 8,
-		"team": "Акрон",
-		"game": 14,
+		"team": "Ростов",
+		"game": 15,
 		"win": 4,
-		"draw": 4,
+		"draw": 5,
 		"lose": 6,
-		"difference": "19-26",
-		"points": 16
+		"difference": "20-26",
+		"points": 17
 	},
 	{
 		"id": 9,
-		"team": "Пари НН",
-		"game": 14,
+		"team": "Акрон",
+		"game": 15,
 		"win": 4,
-		"draw": 3,
+		"draw": 4,
 		"lose": 7,
-		"difference": "14-24",
-		"points": 15
+		"difference": "19-30",
+		"points": 16
 	},
 	{
 		"id": 10,
-		"team": "Ростов",
-		"game": 14,
-		"win": 3,
-		"draw": 5,
-		"lose": 6,
-		"difference": "17-25",
-		"points": 14
+		"team": "Пари НН",
+		"game": 15,
+		"win": 4,
+		"draw": 3,
+		"lose": 8,
+		"difference": "15-27",
+		"points": 15
 	},
 	{
 		"id": 11,
 		"team": "Динамо Мх",
-		"game": 14,
-		"win": 2,
+		"game": 15,
+		"win": 3,
 		"draw": 6,
 		"lose": 6,
-		"difference": "7-13",
-		"points": 12
+		"difference": "9-14",
+		"points": 15
 	},
 	{
 		"id": 12,
 		"team": "Крылья Советов",
-		"game": 14,
+		"game": 15,
 		"win": 3,
 		"draw": 3,
-		"lose": 8,
-		"difference": "12-21",
+		"lose": 9,
+		"difference": "13-23",
 		"points": 12
 	},
 	{
 		"id": 13,
 		"team": "Химки",
-		"game": 14,
+		"game": 15,
 		"win": 2,
 		"draw": 6,
-		"lose": 6,
-		"difference": "15-25",
+		"lose": 7,
+		"difference": "16-28",
 		"points": 12
 	},
 	{
 		"id": 14,
 		"team": "Факел",
-		"game": 14,
+		"game": 15,
 		"win": 2,
 		"draw": 6,
-		"lose": 6,
-		"difference": "9-21",
+		"lose": 7,
+		"difference": "10-23",
 		"points": 12
 	},
 	{
 		"id": 15,
 		"team": "Ахмат",
-		"game": 14,
+		"game": 15,
 		"win": 1,
 		"draw": 6,
-		"lose": 7,
-		"difference": "12-27",
+		"lose": 8,
+		"difference": "13-29",
 		"points": 9
 	},
 	{
 		"id": 16,
 		"team": "Оренбург",
-		"game": 14,
+		"game": 15,
 		"win": 1,
 		"draw": 5,
-		"lose": 8,
-		"difference": "15-28",
+		"lose": 9,
+		"difference": "16-30",
 		"points": 8
 	}
 ]
