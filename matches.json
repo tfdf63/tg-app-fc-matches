@@ -257,10 +257,10 @@
 		"tour": 16,
 		"team_h": "Рубин",
 		"team_g": "Акрон",
-		"score_h": "-",
-		"score_g": "-",
+		"score_h": "3",
+		"score_g": "0",
 		"liga": "РПЛ",
-		"spectators": "",
+		"spectators": "6496",
 		"ticket": ""
 	},
 	{
@@ -269,10 +269,10 @@
 		"tour": "7",
 		"team_h": "Шинник",
 		"team_g": "Акрон",
-		"score_h": "-",
-		"score_g": "-",
+		"score_h": "0",
+		"score_g": "1",
 		"liga": "Кубок",
-		"spectators": "",
+		"spectators": "3658",
 		"ticket": ""
 	},
 	{
@@ -281,11 +281,11 @@
 		"tour": 17,
 		"team_h": "Акрон",
 		"team_g": "Оренбург ",
-		"score_h": "-",
-		"score_g": "-",
+		"score_h": "1",
+		"score_g": "0",
 		"liga": "РПЛ",
-		"spectators": "",
-		"ticket": "https://fcakron.tncloud.ru/view-available-zones/22?utm_term=fcaf"
+		"spectators": "2644",
+		"ticket": ""
 	},
 	{
 		"id": 25,
